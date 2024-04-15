@@ -18,3 +18,9 @@
  <a href="https://discord.gg/StQrqhqKy9" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:info@noahpombas.ch"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noahpombas-dev&show_icons=true&theme=vue-dark"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=vue-dark"/>
+
+
+
+## 
