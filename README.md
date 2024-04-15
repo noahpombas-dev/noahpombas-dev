@@ -11,7 +11,7 @@
   
 ##
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=noahpombas-dev&show_icons=true&theme=vue-dark"/>     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahpombas-dev&layout=compact&langs_count=16&theme=vue-dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=noahpombas-dev&show_icons=true&theme=vue-dark"/>     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahpombas-dev&layout=compact&langs_count=16&theme=vue-dark"/>
 
 ## 
 
