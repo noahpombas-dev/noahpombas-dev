@@ -11,10 +11,6 @@
   
 ##
  
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=noahpombas-dev&show_icons=true&theme=vue-dark"/>     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahpombas-dev&layout=compact&langs_count=16&theme=vue-dark"/>
-
-## 
-
 <div> 
   <a href="https://www.youtube.com/channel/UCNC1xhjMxx21p6R9Mxp6f0Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/noahpombass" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
