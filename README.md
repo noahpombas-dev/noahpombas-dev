@@ -1,4 +1,4 @@
-## Hello i'm Noah Pombas, a Beginner Full Stack Developer!
+## Hello i'm Noah Pombas, a Full Stack Developer!
 
 ---
 <div> 
